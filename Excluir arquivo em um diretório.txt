@@ -1,0 +1,4 @@
+import os
+dir = 'C:\Amanda\2'
+for f in os.listdir(dir):
+    os.remove(os.path.join (dir, f));

@@ -1,5 +1,4 @@
+
 import subprocess
-
-bat_file_path = r'C:\Amanda\COPY.bat'
-
-subprocess.call(bat_file_path)
+bath_file_path = r'C:\Amanda\COPY.bat'
+subprocess.call(bath_file_path);

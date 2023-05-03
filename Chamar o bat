@@ -1,0 +1,5 @@
+import subprocess
+
+bat_file_path = r'C:\Amanda\COPY.bat'
+
+subprocess.call(bat_file_path)
